@@ -22,7 +22,7 @@ Clona el repositorio:
 
 ## Uso
 
-Agregar tarea: Escribe y haz clic en "Add".
-Editar tarea: Selecciona y edita.
-Completar tarea: Selecciona y haz clic en "Complete".
-Eliminar tarea: Selecciona y haz clic en "Delete".
+- Agregar tarea: Escribe y haz clic en "Add".
+- Editar tarea: Selecciona y edita.
+- Completar tarea: Selecciona y haz clic en "Complete".
+- Eliminar tarea: Selecciona y haz clic en "Delete".
