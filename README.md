@@ -10,7 +10,7 @@ FreeSimpleGUI
 
 Clona el repositorio:
 
-    git clone https://github.com/tu-usuario/todo-app.git
+    git clone https://github.com/RamonLGDaw/todo-app.git
 
 ## Instala las dependencias:
 
