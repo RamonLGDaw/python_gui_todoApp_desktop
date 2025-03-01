@@ -1,0 +1,4 @@
+
+Estudiar Python
+Practicar ejercicios de Pandas
+Repasar MySql
