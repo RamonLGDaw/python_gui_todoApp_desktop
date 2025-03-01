@@ -6,23 +6,23 @@ Tecnologías
 Python
 FreeSimpleGUI
 
-Instalación
+## Instalación
 
 Clona el repositorio:
 
     git clone https://github.com/tu-usuario/todo-app.git
 
-Instala las dependencias:
+## Instala las dependencias:
 
     pip install FreeSimpleGUI
 
-Ejecuta la app:
+## Ejecuta la app:
 
     python app.py
 
-Uso
+## Uso
 
-    Agregar tarea: Escribe y haz clic en "Add".
-    Editar tarea: Selecciona y edita.
-    Completar tarea: Selecciona y haz clic en "Complete".
-    Eliminar tarea: Selecciona y haz clic en "Delete".
+Agregar tarea: Escribe y haz clic en "Add".
+Editar tarea: Selecciona y edita.
+Completar tarea: Selecciona y haz clic en "Complete".
+Eliminar tarea: Selecciona y haz clic en "Delete".
