@@ -1,4 +1,4 @@
-Todo App - Lista de Tareas de Escritorio
+<span style="font-size: 24px">Todo App - Lista de Tareas de Escritorio</span>
 
 Aplicación de escritorio para gestionar tareas diarias. Permite agregar, editar, completar y eliminar tareas, con persistencia en archivos de texto.
 Tecnologías
