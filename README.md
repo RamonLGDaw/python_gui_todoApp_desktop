@@ -3,8 +3,8 @@ Todo App - Lista de Tareas de Escritorio
 Aplicación de escritorio para gestionar tareas diarias. Permite agregar, editar, completar y eliminar tareas, con persistencia en archivos de texto.
 Tecnologías
 
-    Python
-    FreeSimpleGUI
+Python
+FreeSimpleGUI
 
 Instalación
 
